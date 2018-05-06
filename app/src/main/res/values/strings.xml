@@ -1,3 +1,58 @@
 <resources>
-    <string name="app_name">College</string>
+    <string name="app_name">PFA</string>
+    <string name="splash_screen">Performing First Aid</string>
+    <string name="home_activity">
+        Where are you? Ar you safe entering the scene?\n
+        Is the scene safe to enter and what stores, clubs, public buildings are nearby?\n
+        Any severe or life threatening conditions?\n
+        How many people are involved?\n
+        Is anyone else available to help?
+    </string>
+    <string name="splash_surname">A Step by Step Guide To Performing First Aid</string>
+    <string name="activity_2">
+        Once confident that you can enter the scene without harm, obtain consent from the victim:
+        Tell the person your name\n
+        Describe your level of training and what you think is wrong\n
+        Tell what you plan to do and ask for permission to provide care\n
+        Use sample questions to gather more info : allergies, medications, medical history etc.\n
+        Contact head to toe check: Check head, neck, shoulders, chest, abdomen,\n
+        arms, and hands for injury
+    </string>
+    <string name="activity_2_title">
+    Step 2: If the person is awake and responsive and there is no severe bleeding
+    </string>
+    <string name="activity_3">
+        Shout to get the attention of the person\n
+        If there is no response, tap their shoulder\n
+        Check for normal breathing\n
+        Check for Responsiveness and normal breathing for no more than 5 seconds
+    </string>
+    <string name="activity_3_title">
+        Step 3: If the Person Appears UNRESPONSIVE
+    </string>
+    <string name="activity_3_step4">
+        Send someone to call 911 or the designated emergency number and obtain an AED and first aid kit\n
+        Keep gathering info from bystanders using the sample questions listed before\n
+        Conduct head to toe check\n
+        Roll the person onto his or her side into a recovery position if there are no obvious signs of injury
+    </string>
+    <string name="activity_3_step4title">
+        Step 4: If the Person is Breathing
+    </string>
+    <string name="activity_4_step5">
+        Send someone to call 911 or the designated emergency number and obtain AED and first aid kit\n
+        Ensure the person is face up firm on a flat surface such as the floor or ground\n
+        Begin CPR or use an AED if one is immediately available, if trained in doing so\n
+        Continue administering CPR until the person exhibits signs of life, such as breathing\n
+        Otherwise wait for EMS or trained medical responders arrive to the scene\n
+    </string>
+    <string name="note">
+        Note:Stop CPR if scene becomes unsafe or you cannot continue CPR due to exhuastion
+    </string>
+    <string name="activitystep5">
+        Step 5: If the Person is NOT Breathing
+    </string>
+    <string name="first_aid">First Aid Kit</string>
+    <string name="first_character">First Character</string>
+    <string name="next_button">Next</string>
 </resources>
